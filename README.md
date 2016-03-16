@@ -21,8 +21,8 @@
 
 * Foundations
     * Graph Theory - Crash Course
-    * Web 2.0 stack
-    * Web 3.0 stack
+    * Web 2.0 stack review
+    * Web 3.0 stack whirlwind
          * RDF
          * OWL
          * SPARQL
