@@ -25,8 +25,8 @@
 * Infrastructure
     * Web 2.0
          * HTTP (w/ TCP/IP underpinnings)
-         * HTML+CSS+Javascript
          * URLs and hyperlinks
+         * HTML+JavaScript+CSS
          * XML
          * Web Services
              * SOAP
