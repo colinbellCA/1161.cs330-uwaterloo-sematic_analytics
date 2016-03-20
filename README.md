@@ -20,15 +20,44 @@
 ### Lecture 11 - Guest Component - Outline
 
 * Foundations
-    * Graph Theory - Crash Course
-    * Web 2.0 stack review
-    * Web 3.0 stack whirlwind
+    * Graph Theory
+    * Semantics
+* Infrastructure
+    * Web 2.0
+         * HTTP (w/ TCP/IP underpinnings)
+         * OSI Model
+         * HTML+CSS+Javascript
+         * URLs and hyperlinks
+         * XML
+         * Web Services
+             * SOAP
+             * RESTful JSON
+    * Web 3.0
          * RDF
          * OWL
          * SPARQL
-* Applied Technologies
-    * Friend of a Friend - FOAF
-    * Financial Industry Business Ontology - FIBO
+* Business Uses
+    * Why Semantic Analytics?
+        * Simple graphs (hyperlinks) denote a connection.
+        * To understand the nature of the connection, you need to understand the meaning.
+        * This is what semantics processing is all about.
+    * Social Graph
+        * Friend of a Friend - FOAF
+        * Why did Facebook recently add more than 'Like'?
+    * Financial Risk
+        * Financial Industry Business Ontology - FIBO
+    * Textual Meta-Analysis & Sentiment Tracking
+        * Election Tracking
+            * OpenText Election Tracker 16
+        * Financial Industry 
+        * Pharma Industry
+        * Legal Industry
+* Managerial and Social Issues
+    * Profiling
+    * Information Leakage
+    * False Positives
+* Building
+    * Where would you start?
 
 ### References
 
