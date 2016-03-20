@@ -25,7 +25,6 @@
 * Infrastructure
     * Web 2.0
          * HTTP (w/ TCP/IP underpinnings)
-         * OSI Model
          * HTML+CSS+Javascript
          * URLs and hyperlinks
          * XML
