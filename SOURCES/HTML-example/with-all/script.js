@@ -1,3 +1,3 @@
-function sayHello(parameter) {
+function sayMessage(parameter) {
     window.alert(parameter)
 }
